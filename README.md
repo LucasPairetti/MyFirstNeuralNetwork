@@ -1,1 +1,2 @@
 # MyFirstNeuralNetwork
+I worked in Google Colab to make a simple neural network used to turn values from Celsius to Fahrenheit, and it have been trained with 7 values in Fahrenheit and Celsius and It also repeats the cicles of training for 1000 times, the idea is to test how the results changes if you use only one layer or more and also how the training cycles affects the weighting applied to neurons
